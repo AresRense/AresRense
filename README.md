@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Dima, 16yo russian programmer living in Spain for now
+
+I love solving complex math problems
+
+Striving to become a senior
+
 <!--
 **AresRense/AresRense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
