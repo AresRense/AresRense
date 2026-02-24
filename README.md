@@ -6,7 +6,7 @@ I love solving complex math problems
 
 Striving to become a senior
 
-python sqlite wordpress
+I can python sqlite wordpress
 
 <!--
 **AresRense/AresRense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
