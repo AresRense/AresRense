@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Dima, 16yo russian programmer living in Spain for now
+I'm Dima, 17yo russian programmer living in Spain for now
 
 I love solving complex math problems
 
